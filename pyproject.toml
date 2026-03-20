@@ -1,0 +1,16 @@
+[project]
+name = "hackathon-freezerdata"
+version = "0.1.0"
+description = "A project for the hackathon"
+authors = [
+    { name = "Pepijn Visser", email = "pepijn.visser@gmail.com" }
+]
+dependencies = [
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.6.0",
+    "seaborn>=0.12.0",
+    "ipykernel>=7.2.0",
+    "plotly>=6.6.0",
+    "nbformat>=5.10.4",
+]
